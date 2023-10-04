@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UefRZ7gA8/cTjjX7EsUaM0mQAShNyPab7U7swKNJ2RThYvCd4EJbPmDFmNwieAu2IkPxJtt01DYNvDR1lQVaQg==",
+  "dgSpecHash": "XvtXK6cP0C/m9LpHoeb/GIZhXKvz/ZirBgE8XxAKa1ey0uPNii/nIrmfkZ/9Cei917U4UCp8wGBqrr82eoJ+nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilar\\Downloads\\inventariosystem\\inventariosystem\\inventariosystem.csproj",
+  "projectFilePath": "C:\\Users\\hilar\\OneDrive\\Escritorio\\inventariosystem\\inventariosystem\\inventariosystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hilar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.21\\microsoft.aspnetcore.cryptography.internal.6.0.21.nupkg.sha512",

@@ -2460,11 +2460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hilar\\Downloads\\inventariosystem\\inventariosystem\\inventariosystem.csproj",
+      "projectUniqueName": "C:\\Users\\hilar\\OneDrive\\Escritorio\\inventariosystem\\inventariosystem\\inventariosystem.csproj",
       "projectName": "inventariosystem",
-      "projectPath": "C:\\Users\\hilar\\Downloads\\inventariosystem\\inventariosystem\\inventariosystem.csproj",
+      "projectPath": "C:\\Users\\hilar\\OneDrive\\Escritorio\\inventariosystem\\inventariosystem\\inventariosystem.csproj",
       "packagesPath": "C:\\Users\\hilar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hilar\\Downloads\\inventariosystem\\inventariosystem\\obj\\",
+      "outputPath": "C:\\Users\\hilar\\OneDrive\\Escritorio\\inventariosystem\\inventariosystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
